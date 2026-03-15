@@ -1,0 +1,7 @@
+.env
+bin/
+.dist/
+*.db
+*.duckdb
+*.log
+.DS_Store
